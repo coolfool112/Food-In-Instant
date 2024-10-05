@@ -34,5 +34,5 @@ To the extent possible under law, [Naman Mandley](https://github.com/coolfool112
 
 ## Admin Site Link
 
-<https://geekynidhay.github.io/fin/order.html>
+<https://coolfool112.github.io/Food-In-Instant/order.html>
 
