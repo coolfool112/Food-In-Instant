@@ -30,7 +30,7 @@ To the extent possible under law, [Naman Mandley](https://github.com/coolfool112
 * [Himanshu Tiwari](https://github.com/iiamhimanshu)
 
 ## Link of this site
-<https://geekynidhay.github.io/fin/>
+<https://coolfool112.github.io/Food-In-Instant/>
 
 ## Admin Site Link
 
