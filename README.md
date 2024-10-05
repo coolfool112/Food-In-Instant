@@ -23,7 +23,7 @@ Project is created with:
 To the extent possible under law, [Naman Mandley](https://github.com/coolfool112) has waived all copyright and related or neighboring rights to this work.
 
 ## Team Members 
-* Nidhay Rathore 
+* [Nidhay Rathore](https://github.com/geekynidhay)
 * [Naman Mandley](https://github.com/coolfool112)
 * Rohit Modi 
 * Piyush Sinha
