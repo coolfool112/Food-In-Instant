@@ -102,7 +102,7 @@
 
     static authRedirecting() {
       window.setTimeout(() => {
-        window.location.replace('https://geekynidhay.github.io/fin/client-side');
+        window.location.replace('https://coolfool112.github.io/Food-In-Instant/client-side');
       }, 500)
     }
 
@@ -119,7 +119,7 @@
     firebaseAuthRedirect(){
       firebase.auth().onAuthStateChanged(function(user) {
         // If user is registered -
-        user ?  window.location.replace('https://geekynidhay.github.io/fin/client-side') : console.log('none');
+        user ?  window.location.replace('https://coolfool112.github.io/Food-In-Instant/client-side') : console.log('none');
       });
     }
   }
@@ -230,7 +230,7 @@
             title: 'Logged Out Successfully',
           })
           firebase.auth().signOut().then(() => {
-            window.location.replace("https://geekynidhay.github.io/fin/index.html")
+            window.location.replace("https://coolfool112.github.io/Food-In-Instant/index.html")
           });
         });
       })
