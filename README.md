@@ -20,7 +20,7 @@ Project is created with:
 
 
 ## License
-To the extent possible under law, [Nidhay Rathore](https://github.com/geekynidhay) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Naman Mandley](https://github.com/geekynidhay) has waived all copyright and related or neighboring rights to this work.
 
 ## Team Members 
 * Nidhay Rathore 
